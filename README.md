@@ -12,7 +12,7 @@
 
 ---
 
-### 🎨 My Colorful Tech Stack
+### 🎨 My Tech Stack
 
 <div align="center">
 
