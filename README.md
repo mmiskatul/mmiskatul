@@ -67,6 +67,15 @@
 ---
 
 <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Maidul02/Maidul02/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=mmiskatul&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
