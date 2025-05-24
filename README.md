@@ -68,7 +68,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>"https://raw.githubusercontent.com/mmiskatul/mmiskatul/main/snake.svg"
+  <br>
+  <img src="https://raw.githubusercontent.com/mmiskatul/mmiskatul/main/snake.svg" width="28"> 
   <br/><br/><br/>
 </div>
 
