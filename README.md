@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmiskatul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mmiskatul profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mmiskatul&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=💻+Full-Stack+Web+Developer;🧠+DSA+%26+Problem+Solving+Enthusiast;🤖+AI+%7C+ML+%7C+GenAI+Learner;⚙️+Project-Driven+Software+Engineer;📚+Always+Learning%2C+Always+Building&center=true&vCenter=true&color=00F7FF&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=620&lines=💻+Full-Stack+Web+Developer+(MERN);🧠+Data+Structures+%26+Algorithms+(Java);⚙️+Backend+%26+System+Thinking;🤖+AI+%7C+ML+%7C+GenAI+(Learning);📚+Build+Projects+%7C+Solve+Problems+%7C+Learn+Daily&center=true&vCenter=true&color=00F7FF&size=22" />
   </a>
 </p>
 
@@ -21,12 +21,24 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. in **Software Engineering** at **Daffodil International University (DIU)**
-- 🌱 Focused on **Full-Stack Development (MERN)**
-- 🧠 Strong in **DSA (Java) & Problem Solving**
-- 🤖 Exploring **AI, Machine Learning & Generative AI**
-- 🛠️ Love building **real-world, impactful projects**
-- 🎯 Goal: **Industry-ready Full-Stack / AI Engineer by 2025**
+I’m a **Software Engineering student at Daffodil International University (DIU)** who enjoys building **scalable web applications**, solving **algorithmic problems**, and learning **modern backend & AI technologies**.
+
+- 🎓 B.Sc. in **Software Engineering**
+- 💻 Strong foundation in **Full-Stack Development (MERN)**
+- 🧠 Regularly practice **DSA & problem solving (Java)**
+- ⚙️ Interested in **backend systems & APIs**
+- 🤖 Exploring **Machine Learning & Generative AI**
+- 🎯 Goal: **Industry-ready Software Engineer by 2025**
+
+---
+
+## 🧠 Current Focus
+
+- 🔹 Building **real-world MERN projects**
+- 🔹 Improving **backend architecture & REST APIs**
+- 🔹 Practicing **DSA (LeetCode)**
+- 🔹 Learning **AI / ML fundamentals**
+- 🔹 Writing **clean, maintainable code**
 
 ---
 
@@ -47,14 +59,14 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🗄️ Database
+### 🗄️ Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### 🤖 AI / ML (Learning)
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
 ### 🛠️ Tools
@@ -64,6 +76,17 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </div>
+
+---
+
+## 🚀 Featured Projects (Coming Soon)
+
+- 🔹 **Attendance Management System (Java + MySQL)**
+- 🔹 **Inventory Management System**
+- 🔹 **MERN Full-Stack Web App**
+- 🔹 **AI-powered Mini Projects**
+
+👉 *Check repositories for ongoing work.*
 
 ---
 
@@ -95,7 +118,7 @@
 ---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contribution Graph 🐍</h2>
   <img src="https://raw.githubusercontent.com/mmiskatul/mmiskatul/main/snake.svg" />
 </div>
 
