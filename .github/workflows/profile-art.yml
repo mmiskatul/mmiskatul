@@ -1,0 +1,49 @@
+# Put this file at:  .github/workflows/profile-art.yml
+# It draws the contribution snake and the 3D contribution graph,
+# then saves both into this repo so the README can show them.
+name: Generate profile art
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 18 * * *"   # once a day
+  workflow_dispatch:         # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      - name: 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets profile-3d-contrib
+          if git commit -m "chore: update profile art"; then
+            git pull --rebase
+            git push
+          fi
